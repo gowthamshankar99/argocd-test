@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: kandy-deployment
+  name: healthedge-test-app
   labels:
     app: nginx
 spec:
